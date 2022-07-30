@@ -1,11 +1,22 @@
 # Swift-Collections
-- This repo contains swift collection of gui, games, menu, animations, music, payment, etc... for iOS
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-swift.svg)](https://forthebadge.com)
+## About:
+- This repo contains a collection of projects built using swift and objective-c
 
 <p align="center">
-  <img src="https://github.com/krishpranav/swift-collections/blob/master/swiftobjc_banner.png?raw=true" width="350">
+  <img src="https://github.com/krishpranav/swift-collections/blob/master/swiftobjc_banner.png?raw=true" width="400">
 </p>
+
+## Contains projects for 
+- macOS
+- iOS
+- iPad
+- watchOS
+
+## Made with:
+[![forthebadge](https://forthebadge.com/images/badges/made-with-swift.svg)](https://forthebadge.com)
+- Objective-C
+
 
 ## Collections:
 - [Animation](https://github.com/krishpranav/swift-collections/tree/master/Animations) Collection of Animations built using SwiftUI & Objc
