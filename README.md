@@ -14,8 +14,9 @@
 - watchOS
 
 ## Made with:
-[![forthebadge](https://forthebadge.com/images/badges/made-with-swift.svg)](https://forthebadge.com)
-- Objective-C
+[![forthebadge](https://forthebadge.com/images/badges/made-with-swift.svg)](https://forthebadge.com) <img src="./and.svg">
+<img src="./objective-c.svg">
+
 
 
 ## Collections:
