@@ -12,6 +12,7 @@
 - iOS
 - iPad
 - watchOS
+- tvOS
 
 ## Made with:
 [![forthebadge](https://forthebadge.com/images/badges/made-with-swift.svg)](https://forthebadge.com) <img src="./and.svg">
